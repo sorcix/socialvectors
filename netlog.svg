@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="48" height="48" id="socialicon">
+  <defs id="sicon-defines">
+    <linearGradient x1="24" y1="1" x2="24" y2="47" id="gr-highlight-border" gradientUnits="userSpaceOnUse">
+      <stop id="grhbo1" style="stop-color:#ffffff;stop-opacity:0.58823532" offset="0"/>
+      <stop id="grhbo2" style="stop-color:#ffffff;stop-opacity:0" offset="0.36302474"/>
+      <stop id="grhbo3" style="stop-color:#ffffff;stop-opacity:0" offset="0.90756184"/>
+      <stop id="grhbo4" style="stop-color:#ffffff;stop-opacity:0.19607843" offset="1"/>
+    </linearGradient>
+    <linearGradient x1="10" y1="1" x2="10" y2="28.484131" id="gr-highlight-background" gradientUnits="userSpaceOnUse">
+      <stop id="grhba1" style="stop-color:#ffffff;stop-opacity:0.39215687" offset="0"/>
+      <stop id="grhba2" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="netlog">
+    <path d="m 5,0 38,0 c 2.77,0 5,2.23 5,5 l 0,38 c 0,2.77 -2.23,5 -5,5 L 5,48 C 2.23,48 0,45.77 0,43 L 0,5 C 0,2.23 2.23,0 5,0 z" id="background" style="fill:#2e3436;fill-opacity:1;stroke:none"/>
+    <path d="m 24,7.6835341 c -10.001953,0 -18.1257844,8.1238309 -18.1257844,18.1257839 0,5.959657 2.8878328,11.211719 7.3350744,14.507148 1.589843,-4.429919 5.813653,-7.595877 10.79071,-7.595877 4.977056,0 9.200866,3.165958 10.790709,7.595877 4.447243,-3.295429 7.335075,-8.547491 7.335075,-14.507148 C 42.125784,15.807365 34.001952,7.6835341 24,7.6835341 z m 0,11.4753169 c 3.613609,0 6.552666,2.939058 6.552666,6.552667 0,3.613609 -2.939057,6.520066 -6.552666,6.520066 -3.613609,0 -6.552667,-2.906457 -6.552667,-6.520066 0,-3.613609 2.939058,-6.552667 6.552667,-6.552667 z" id="c-netlog" style="fill:#d3d7cf;fill-opacity:1;stroke:none"/>
+    <path d="m 5.5,1 37,0 C 44.993,1 47,3.007 47,5.5 l 0,20.488 c 0,2.493 -2.007,4.5 -4.5,4.5 l -37,0 C 3.007,30.488 1,28.481 1,25.988 L 1,5.5 C 1,3.007 3.007,1 5.5,1 z" id="highlight-background" style="fill:url(#gr-highlight-background);fill-opacity:1;stroke:none"/>
+    <path d="M 5.5,1 C 3.007,1 1,3.007 1,5.5 l 0,37 C 1,44.993 3.007,47 5.5,47 l 37,0 c 2.493,0 4.5,-2.007 4.5,-4.5 l 0,-37 C 47,3.007 44.993,1 42.5,1 L 5.5,1 z M 6,2 42,2 c 2.216,0 4,1.784 4,4 l 0,36 c 0,2.216 -1.784,4 -4,4 L 6,46 C 3.784,46 2,44.216 2,42 L 2,6 C 2,3.784 3.784,2 6,2 z" id="highlight-border" style="fill:url(#gr-highlight-border);fill-opacity:1;stroke:none"/>
+  </g>
+</svg>
